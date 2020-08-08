@@ -8,7 +8,7 @@ App: Magic 8 Ball App
 
 
 
-![Alt Text](https://media.giphy.com/media/SRvk9GPtPSLYmRfRtD/giphy.gif)
+![Alt Text](https://media.giphy.com/media/fX2NZ8yMrxvlCpnsjg/giphy.gif)
 
 
 
@@ -26,6 +26,6 @@ Our Goal
 
 
 Our Mission
-- We will create what was instructed to us. This App is a Magic 8 Ball App in which you'll ask anything and the App will Answer you. LOL!
+- We will create what was instructed to us. This App is a Dicee App in which we were focusing on Swift Randomization. Random number of Dice. LOL!
 
 This project is coming from the App Brewery's Complete App Development Bootcamp.
