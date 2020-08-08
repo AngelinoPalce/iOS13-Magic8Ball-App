@@ -4,7 +4,12 @@ Magic 8 Ball App - Learning to Code While Building Apps - I am one of the studen
 Module 4  &amp; 5: Swift Programming Basics Challenge &amp; Swift Programming Basics - Collections, Constants &amp; Variables 
 
 App: Magic 8 Ball App
+
+
+
+
 ![Alt Text](https://media.giphy.com/media/SRvk9GPtPSLYmRfRtD/giphy.gif)
+
 
 
 
